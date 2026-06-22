@@ -170,7 +170,7 @@ docker run -d --env-file .env --name stockbot stockbot
 
 ## Wichtige Hinweise
 
-- **Kein Anlageberatung:** Dieses Tool ist rein informativ.
+- **Keine Anlageberatung:** Dieses Tool ist rein informativ.
 - **WhatsApp Gruppen:** Die Meta Cloud API unterstützt keine direkten Gruppen-Nachrichten.
   Nachrichten werden an Einzelnummern gesendet. Empfänger können sich dann selbst
   in einer Gruppe organisieren, in die sie die Infos weiterleiten.
